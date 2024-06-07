@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.heading {
+  color: #05acff;
+  font-weight: bold;
+}
+.img {
+  width: 30%;
+  height: 30%;
+}
+.slide {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 30px;
+}
+.planet-name {
+  color: #f8fafc;
+}
+.description {
+  color: #f1f5f9;
+  font-weight: normal;
+  text-align: center;
+}
